@@ -1,0 +1,4 @@
+venv
+django_todo_app
+mysite
+.gitignore
